@@ -1,0 +1,59 @@
+/* *,
+*::before,
+*::after {
+  box-sizing: border-box;
+} */
+
+body {
+  /* font-family: 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI',
+    Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+  line-height: 1.5;
+  color: #2a2a2a; */
+  background-color: gainsboro;
+}
+
+img {
+  margin-left: 20px;
+  display: block;
+  max-width: 225px;
+}
+
+/* .card {
+  width: 288px;
+} */
+
+/* .card-text {
+  margin-top: 0;
+  margin-bottom: 10px;
+} */
+
+/* .card-img-top {
+  display: flex;
+  justify-content: center;
+} */
+
+/* .card {
+  margin: 10px;
+} */
+
+.search-form {
+  padding: 10px;
+}
+
+.discription {
+  display: flex;
+}
+
+/* .text {
+  outline: 1px solid black;
+  background-color: white;
+  padding-top: 0;
+} */
+h1 {
+  text-align: center;
+}
+h2,
+h3 {
+  margin: 0;
+  /* outline: 1px solid black; */
+}
